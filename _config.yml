@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://thumbs.worthpoint.com/zoom/images1/1/0315/07/saw-2004-pig-mask-prop-replica_1_1919e0740ccfd96eb71cd53e2442feba.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
